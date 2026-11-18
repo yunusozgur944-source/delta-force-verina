@@ -1,0 +1,4 @@
+.tox/
+.venv/
+venv/
+.mypy_cache/
